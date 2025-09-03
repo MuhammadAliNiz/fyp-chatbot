@@ -398,7 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Ali** - *Initial work* - [Your GitHub Profile](https://github.com/your-username)
+- **Muhammad Ali Nizamani** - *Initial work* - [Your GitHub Profile](https://github.com/muhammadaliniz)
 
 ## 🙏 Acknowledgments
 
@@ -412,9 +412,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project:
 
-1. Check the [Issues](https://github.com/your-username/medical-rag-chatbot/issues) page
+1. Check the [Issues](https://github.com/muhammadaliniz/fyp-chatbot/issues) page
 2. Create a new issue with detailed description
-3. Join our [Discussions](https://github.com/your-username/medical-rag-chatbot/discussions)
+3. Join our [Discussions](https://github.com/muhammadaliniz/fypchatbot/discussions)
 
 ---
 
